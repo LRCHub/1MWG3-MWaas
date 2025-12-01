@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ネオンドール",
+  "base_artist": "ルシノ",
+  "createdAt": "2025-12-01T09:57:59.410530Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネオンドール (feat. 重音テト)",
+      "artist": "ルシノ",
+      "has_synced": false,
+      "path": "select/pl_01_ネオンドール_(feat._重音テト)_ルシノ.txt"
+    }
+  ]
+}
